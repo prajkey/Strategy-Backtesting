@@ -18,4 +18,4 @@ These strategies are further tested by applying following technical indicators:
 - Renko Charts
 
 
-Data used : OHLCV data of Nifty-5000
+Data used : OHLCV data of Nifty-500
